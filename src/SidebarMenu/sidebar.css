@@ -1,0 +1,19 @@
+.sidebar_Wrapper{
+    width: 200px;
+    background: #edf6ff;
+    border-radius: 5px;
+    text-align: center;
+    display: flex;
+    font-family: 'DM Sans', sans-serif;
+    font-family: 'Kanit', sans-serif;
+}
+.sidebarOptions{
+    width: 180px;
+    padding: 8px;
+    margin: 5px;
+}
+.sidebarOptions:hover{
+    background: #bcddff;
+    border-radius: 5px;
+    cursor: pointer;
+}

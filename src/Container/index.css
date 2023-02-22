@@ -1,0 +1,10 @@
+.outerContainer{
+    background: #E5E6E8;
+    padding: 20px;
+}
+.nestedContainer{
+    background: #fff;
+    height: 87.5vh;
+    padding:20px;
+    border-radius: 12px;
+}

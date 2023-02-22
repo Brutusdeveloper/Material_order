@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=DM+Sans:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+.Header_wrapper{
+    width: 100%;
+    border-radius: 5px;
+    background: #edf6ff;
+    padding: 5px 10px;
+    border-radius: 8px;
+    margin: 5px 0;
+}
+.Header_title{
+    font-weight: bold;
+    font-size: 24px;
+font-family: 'DM Sans', sans-serif;
+}
+.Header_Profile{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 2px;
+    letter-spacing: 1px;
+}
